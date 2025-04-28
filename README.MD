@@ -12,7 +12,10 @@
    Install-Package Npgsql -Version 4.1.10
    ```
 3. Перейти в папку с проектом, где лежит файл docker-compose.yml.
-4. Выполнить команду:
+    ```cmd
+    cd путь к файлу
+    ```
+5. Выполнить команду:
    ```cmd
    docker-compose up --build
    ```
