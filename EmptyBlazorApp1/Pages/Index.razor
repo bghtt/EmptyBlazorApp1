@@ -1,0 +1,91 @@
+﻿@page "/"
+@using Microsoft.AspNetCore.Components.Forms
+@using System.ComponentModel.DataAnnotations
+@inject NavigationManager Navigation
+@inject AuthService AuthService
+
+<h3>Авторизация</h3>
+
+<EditForm Model="@authModel" OnValidSubmit="@HandleLogin">
+    <DataAnnotationsValidator />
+
+    <div class="form-group">
+        <label>Логин:</label>
+        <InputText @bind-Value="authModel.Login" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label>Пароль:</label>
+        <InputText type="password" @bind-Value="authModel.Password" class="form-control" />
+    </div>
+
+    <div class="button-group">
+        <button type="submit" class="btn btn-primary">Вход</button>
+        <button type="button" @onclick="HandleRegister" class="btn btn-secondary">Регистрация</button>
+    </div>
+</EditForm>
+
+@if (showRegistrationPrompt)
+{
+    <div class="alert alert-info">
+        Пользователь не найден. Хотите зарегистрироваться?
+        <button @onclick="HandleRegister" class="btn btn-sm btn-success">Да</button>
+    </div>
+}
+
+@if (!string.IsNullOrEmpty(errorMessage))
+{
+    <div class="alert alert-danger">@errorMessage</div>
+}
+
+@code{
+    private AuthModel authModel = new();
+    private bool showRegistrationPrompt;
+    private string errorMessage = string.Empty;
+
+    public class AuthModel
+    {
+        [Required(ErrorMessage = "Логин обязателен")]
+        public string Login { get; set; } = string.Empty;
+
+        [Required(ErrorMessage = "Пароль обязателен")]
+        public string Password { get; set; } = string.Empty;
+    }
+
+    private async Task HandleLogin()
+    {
+        errorMessage = string.Empty;
+        showRegistrationPrompt = false;
+
+        var result = await AuthService.LoginAsync(authModel.Login, authModel.Password);
+
+        if (result.Success)
+        {
+            Navigation.NavigateTo($"/profile?username={authModel.Login}");
+        }
+        else
+        {
+            showRegistrationPrompt = true;
+            errorMessage = result.Message;
+        }
+    }
+
+    private async Task HandleRegister()
+    {
+        errorMessage = string.Empty;
+        showRegistrationPrompt = false;
+
+        var result = await AuthService.RegisterAsync(authModel.Login, authModel.Password);
+
+        if (result.Success)
+        {
+            
+            await HandleLogin();
+        }
+        else
+        {
+            errorMessage = result.Message;
+            showRegistrationPrompt = false;
+        }
+    }
+}

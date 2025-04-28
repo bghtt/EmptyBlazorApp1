@@ -1,0 +1,9 @@
+﻿@page "/profile"
+
+<h1>Личный кабинет</h1>
+<p>Добро пожаловать, @Username!</p>
+
+@code {
+    [Parameter]
+    public string Username { get; set; } = "Гость";
+}

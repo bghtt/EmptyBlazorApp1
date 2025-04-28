@@ -1,0 +1,235 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\labs\\c\\EmptyBlazorApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9871379F-DB8B-457E-B16A-D88F982B3C36}|EmptyBlazorApp1\\EmptyBlazorApp1.csproj|g:\\labs\\c\\emptyblazorapp1\\emptyblazorapp1\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9871379F-DB8B-457E-B16A-D88F982B3C36}|EmptyBlazorApp1\\EmptyBlazorApp1.csproj|solutionrelative:emptyblazorapp1\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06738291-130B-4103-9BE7-2242D7B9C6B1}|\u042D\u043B\u0435\u043C\u0435\u043D\u0442\u044B \u0440\u0435\u0448\u0435\u043D\u0438\u044F{06738291-130B-4103-9BE7-2242D7B9C6B1}|G:\\labs\\c\\EmptyBlazorApp1\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{06738291-130B-4103-9BE7-2242D7B9C6B1}|\u042D\u043B\u0435\u043C\u0435\u043D\u0442\u044B \u0440\u0435\u0448\u0435\u043D\u0438\u044F{06738291-130B-4103-9BE7-2242D7B9C6B1}|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9871379F-DB8B-457E-B16A-D88F982B3C36}|EmptyBlazorApp1\\EmptyBlazorApp1.csproj|g:\\labs\\c\\emptyblazorapp1\\emptyblazorapp1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9871379F-DB8B-457E-B16A-D88F982B3C36}|EmptyBlazorApp1\\EmptyBlazorApp1.csproj|solutionrelative:emptyblazorapp1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9871379F-DB8B-457E-B16A-D88F982B3C36}|EmptyBlazorApp1\\EmptyBlazorApp1.csproj|g:\\labs\\c\\emptyblazorapp1\\emptyblazorapp1\\authorization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9871379F-DB8B-457E-B16A-D88F982B3C36}|EmptyBlazorApp1\\EmptyBlazorApp1.csproj|solutionrelative:emptyblazorapp1\\authorization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9871379F-DB8B-457E-B16A-D88F982B3C36}|EmptyBlazorApp1\\EmptyBlazorApp1.csproj|g:\\labs\\c\\emptyblazorapp1\\emptyblazorapp1\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9871379F-DB8B-457E-B16A-D88F982B3C36}|EmptyBlazorApp1\\EmptyBlazorApp1.csproj|solutionrelative:emptyblazorapp1\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9871379F-DB8B-457E-B16A-D88F982B3C36}|EmptyBlazorApp1\\EmptyBlazorApp1.csproj|g:\\labs\\c\\emptyblazorapp1\\emptyblazorapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9871379F-DB8B-457E-B16A-D88F982B3C36}|EmptyBlazorApp1\\EmptyBlazorApp1.csproj|solutionrelative:emptyblazorapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9871379F-DB8B-457E-B16A-D88F982B3C36}|EmptyBlazorApp1\\EmptyBlazorApp1.csproj|g:\\labs\\c\\emptyblazorapp1\\emptyblazorapp1\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9871379F-DB8B-457E-B16A-D88F982B3C36}|EmptyBlazorApp1\\EmptyBlazorApp1.csproj|solutionrelative:emptyblazorapp1\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9871379F-DB8B-457E-B16A-D88F982B3C36}|EmptyBlazorApp1\\EmptyBlazorApp1.csproj|g:\\labs\\c\\emptyblazorapp1\\emptyblazorapp1\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9871379F-DB8B-457E-B16A-D88F982B3C36}|EmptyBlazorApp1\\EmptyBlazorApp1.csproj|solutionrelative:emptyblazorapp1\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9871379F-DB8B-457E-B16A-D88F982B3C36}|EmptyBlazorApp1\\EmptyBlazorApp1.csproj|g:\\labs\\c\\emptyblazorapp1\\emptyblazorapp1\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9871379F-DB8B-457E-B16A-D88F982B3C36}|EmptyBlazorApp1\\EmptyBlazorApp1.csproj|solutionrelative:emptyblazorapp1\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9871379F-DB8B-457E-B16A-D88F982B3C36}|EmptyBlazorApp1\\EmptyBlazorApp1.csproj|g:\\labs\\c\\emptyblazorapp1\\emptyblazorapp1\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9871379F-DB8B-457E-B16A-D88F982B3C36}|EmptyBlazorApp1\\EmptyBlazorApp1.csproj|solutionrelative:emptyblazorapp1\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\build\\Container.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9871379F-DB8B-457E-B16A-D88F982B3C36}|EmptyBlazorApp1\\EmptyBlazorApp1.csproj|g:\\labs\\c\\emptyblazorapp1\\emptyblazorapp1\\pages\\profilepage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9871379F-DB8B-457E-B16A-D88F982B3C36}|EmptyBlazorApp1\\EmptyBlazorApp1.csproj|solutionrelative:emptyblazorapp1\\pages\\profilepage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "G:\\labs\\c\\EmptyBlazorApp1\\EmptyBlazorApp1\\Dockerfile",
+              "RelativeDocumentMoniker": "EmptyBlazorApp1\\Dockerfile",
+              "ToolTip": "G:\\labs\\c\\EmptyBlazorApp1\\EmptyBlazorApp1\\Dockerfile",
+              "RelativeToolTip": "EmptyBlazorApp1\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-27T16:04:58.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "G:\\labs\\c\\EmptyBlazorApp1\\EmptyBlazorApp1\\appsettings.json",
+              "RelativeDocumentMoniker": "EmptyBlazorApp1\\appsettings.json",
+              "ToolTip": "G:\\labs\\c\\EmptyBlazorApp1\\EmptyBlazorApp1\\appsettings.json",
+              "RelativeToolTip": "EmptyBlazorApp1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-25T21:53:34.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Container.targets",
+              "DocumentMoniker": "C:\\Users\\User\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\build\\Container.targets",
+              "ToolTip": "C:\\Users\\User\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\build\\Container.targets",
+              "ViewState": "AgIAAMAAAAAAAAAAAAAgwNgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-04-25T21:09:20.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DataBase.cs",
+              "DocumentMoniker": "G:\\labs\\c\\EmptyBlazorApp1\\EmptyBlazorApp1\\DataBase.cs",
+              "RelativeDocumentMoniker": "EmptyBlazorApp1\\DataBase.cs",
+              "ToolTip": "G:\\labs\\c\\EmptyBlazorApp1\\EmptyBlazorApp1\\DataBase.cs",
+              "RelativeToolTip": "EmptyBlazorApp1\\DataBase.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T18:06:05.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.razor",
+              "DocumentMoniker": "G:\\labs\\c\\EmptyBlazorApp1\\EmptyBlazorApp1\\Pages\\Index.razor",
+              "RelativeDocumentMoniker": "EmptyBlazorApp1\\Pages\\Index.razor",
+              "ToolTip": "G:\\labs\\c\\EmptyBlazorApp1\\EmptyBlazorApp1\\Pages\\Index.razor",
+              "RelativeToolTip": "EmptyBlazorApp1\\Pages\\Index.razor",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-23T17:44:35.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Registration.cs",
+              "DocumentMoniker": "G:\\labs\\c\\EmptyBlazorApp1\\EmptyBlazorApp1\\Registration.cs",
+              "RelativeDocumentMoniker": "EmptyBlazorApp1\\Registration.cs",
+              "ToolTip": "G:\\labs\\c\\EmptyBlazorApp1\\EmptyBlazorApp1\\Registration.cs",
+              "RelativeToolTip": "EmptyBlazorApp1\\Registration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T18:07:28.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\labs\\c\\EmptyBlazorApp1\\EmptyBlazorApp1\\Program.cs",
+              "RelativeDocumentMoniker": "EmptyBlazorApp1\\Program.cs",
+              "ToolTip": "G:\\labs\\c\\EmptyBlazorApp1\\EmptyBlazorApp1\\Program.cs",
+              "RelativeToolTip": "EmptyBlazorApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T17:16:53.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "G:\\labs\\c\\EmptyBlazorApp1\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "G:\\labs\\c\\EmptyBlazorApp1\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-04-25T18:56:31.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "G:\\labs\\c\\EmptyBlazorApp1\\EmptyBlazorApp1\\AuthService.cs",
+              "RelativeDocumentMoniker": "EmptyBlazorApp1\\AuthService.cs",
+              "ToolTip": "G:\\labs\\c\\EmptyBlazorApp1\\EmptyBlazorApp1\\AuthService.cs",
+              "RelativeToolTip": "EmptyBlazorApp1\\AuthService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T17:07:00.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Authorization.cs",
+              "DocumentMoniker": "G:\\labs\\c\\EmptyBlazorApp1\\EmptyBlazorApp1\\Authorization.cs",
+              "RelativeDocumentMoniker": "EmptyBlazorApp1\\Authorization.cs",
+              "ToolTip": "G:\\labs\\c\\EmptyBlazorApp1\\EmptyBlazorApp1\\Authorization.cs",
+              "RelativeToolTip": "EmptyBlazorApp1\\Authorization.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBsAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T18:00:41.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProfilePage.razor",
+              "DocumentMoniker": "G:\\labs\\c\\EmptyBlazorApp1\\EmptyBlazorApp1\\Pages\\ProfilePage.razor",
+              "RelativeDocumentMoniker": "EmptyBlazorApp1\\Pages\\ProfilePage.razor",
+              "ToolTip": "G:\\labs\\c\\EmptyBlazorApp1\\EmptyBlazorApp1\\Pages\\ProfilePage.razor",
+              "RelativeToolTip": "EmptyBlazorApp1\\Pages\\ProfilePage.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-25T17:53:27.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PasswordHasher.cs",
+              "DocumentMoniker": "G:\\labs\\c\\EmptyBlazorApp1\\EmptyBlazorApp1\\PasswordHasher.cs",
+              "RelativeDocumentMoniker": "EmptyBlazorApp1\\PasswordHasher.cs",
+              "ToolTip": "G:\\labs\\c\\EmptyBlazorApp1\\EmptyBlazorApp1\\PasswordHasher.cs",
+              "RelativeToolTip": "EmptyBlazorApp1\\PasswordHasher.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAkwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T18:06:39.823Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
